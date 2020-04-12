@@ -10,5 +10,8 @@ public class Java0806 {
         System.out.println("coding。。。。");
         //张三
         System.out.println("张三日常写代码");
+        //------以下是李四
+        System.out.println("李四来了------");
+        System.out.println("李四来了2");
     }
 }
